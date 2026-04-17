@@ -154,7 +154,8 @@ More Info: https://docs.usacloud.jp/terraform-policy/rules/sakuracloud_disk/not_
 
 ## TODO
 
-Support new resources since terraform-provider-sakura v3.
+- Support new resources since terraform-provider-sakura v3.
+- Update link to docs.usacloud.jp. docs.usacloud.jp pages will be migrated to SAKURA's manuals.
 
 ## License
 

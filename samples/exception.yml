@@ -1,0 +1,4 @@
+exception:
+  rule:
+    # - sakura_disk_not_encrypted
+    - sakura_vpn_router_unspecified_syslog_host
